@@ -1,4 +1,4 @@
-# digitak_literacy_Proj
+# digital_literacy_Proj
 Digital Literacy Project for CSE0001 course covering infographic, portfolio, platforms, email etiquette, and cybercrime awareness.
 Digital Literacy Project
 Student Details
